@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: dtb
+Version: 0.0.1
+Summary: data toolbox
+Home-page: https://github.com/vincentlam/dtb
+Author: Vincent Lam
+Author-email: vincent@lam.is
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: requests
+
+UNKNOWN
+
+
